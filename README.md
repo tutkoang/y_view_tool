@@ -20,7 +20,12 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+
+```
+YViewTool::Renderer.copyright 'Tut Wal', 'All right reserved'
+```
+
 
 ## Development
 
